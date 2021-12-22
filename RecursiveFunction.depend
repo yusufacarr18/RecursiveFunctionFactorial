@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640191224 source:c:\users\computer\c and c++ projects\recursivefunction\main.c
+	<stdio.h>
+	<stdlib.h>
+
